@@ -2,7 +2,7 @@
 
 ## I'm Dmytro!
 
-I am a student of Kharkov National University of Radio Electronics. I want to learn web technology! 
+I am a student of Kharkiv National University of Radio Electronics. I want to learn web technology! 
 
 ![](https://komarev.com/ghpvc/?username=asabeneh&color=green)
 
