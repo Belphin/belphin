@@ -8,21 +8,14 @@ I am a student of Kharkiv National University of Radio Electronics. I want to le
 
 ## Technologies which I teach and use:
 
-### Frontend Technologies
-
 <div>
   <img src ="./images/html-5.svg" alt="HTML5 logo" width="3%" title='HTML5'/>
   <img src ="./images/css-3.svg" alt="CSS3 logo" width="3%" title='CSS3'/>
   <img src ="./images/bootstrap.svg" alt="Bootstrap logo" width="4%" title='Bootstrap'/>
   <img src ="./images/javascript.svg" alt="JavaScript logo" width="4%" title='JavaScript'/>
-<div> 
-
-### Backend Technologies
-
-<div>
-  <img src ="./images/sqlite.svg" alt="sqlite logo" width="5%" title='sqlite'/>
   <img src ="./images/python.svg" alt="Python logo" width="5%" title='Python'/>
-</div>
+  <img src ="./images/sqlite.svg" alt="sqlite logo" width="5%" title='sqlite'/>
+<div> 
  
  <br>
   
