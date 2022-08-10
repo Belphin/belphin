@@ -23,5 +23,7 @@ I am a student of Kharkiv National University of Radio Electronics. I want to le
   <img src ="./images/sqlite.svg" alt="sqlite logo" width="5%" title='sqlite'/>
   <img src ="./images/python.svg" alt="Python logo" width="5%" title='Python'/>
 </div>
+ 
+ <br>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Belphin&layout)](https://github.com/Belphin/github-readme-stats)
