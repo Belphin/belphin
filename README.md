@@ -1,7 +1,6 @@
 # Hi 👋 !
 
 ## I'm Dmytro!
-<small style='font-size:12px;'>A place to mine Gold and Diamond! </small>
 
 I am a student of Kharkov National University of Radio Electronics. I want to learn web technology! 
 
