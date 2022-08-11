@@ -19,5 +19,3 @@ I am a student of Kharkiv National University of Radio Electronics. I want to le
 <div> 
  
  <br>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Belphin&layout)](https://github.com/Belphin/github-readme-stats)
