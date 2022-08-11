@@ -15,7 +15,7 @@ I am a student of Kharkiv National University of Radio Electronics. I want to le
   <img src ="./images/javascript.svg" alt="JavaScript logo" width="4%" title='JavaScript'/>
   <img src ="./images/python.svg" alt="Python logo" width="5%" title='Python'/>
   <img src ="./images/c.svg" alt="c++ logo" width="4%" title='c++'/>
-  <img src ="./images/sqlite.svg" alt="sqlite logo" width="5%" title='sqlite'/>
+  <img src ="./images/sqlite.svg" alt="sqlite logo" width="7%" title='sqlite'/>
 <div> 
  
  <br>
