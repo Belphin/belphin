@@ -2,18 +2,4 @@
 
 ## My name is Dmytro or just Dima!
 
-I am a student of Kharkiv National University of Radio Electronics. I want to learn web technology! 
-
-## Technologies which I teach and use:
-
-<div>
-  <img src ="./images/html-5.svg" alt="HTML5 logo" width="3%" title='HTML5'/>
-  <img src ="./images/css-3.svg" alt="CSS3 logo" width="3%" title='CSS3'/>
-  <img src ="./images/bootstrap.svg" alt="Bootstrap logo" width="4%" title='Bootstrap'/>
-  <img src ="./images/javascript.svg" alt="JavaScript logo" width="4%" title='JavaScript'/>
-  <img src ="./images/c.svg" alt="c++ logo" width="4%" title='c++'/>
-  <img src ="./images/python.svg" alt="Python logo" width="5%" title='Python'/>
-  <img src ="./images/sqlite.svg" alt="sqlite logo" width="7%" title='sqlite'/>
-<div> 
- 
- <br>
+I am a student of Kharkiv National University of Radio Electronics. I want to learn web technology!
