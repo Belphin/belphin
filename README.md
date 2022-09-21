@@ -131,13 +131,19 @@
       </a>
       <br>Node JS
     </td>
+    <td align="center" width="160"> 
+      <a href="#Belphin-stack" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Expressjs.png/220px-Expressjs.png" alt="Express JS" />
+      </a>
+      <br>Express JS
+    </td>
 		<td align="center" width="96">
       <a href="#Belphin-stack" >
         <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="Mongo DB" />
       </a>
       <br>MongoDB
     </td>
-		<td align="center" width="96">
+		<td align="center" width="115">
       <a href="#Belphin-stack" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/220px-SQLite370.svg.png" alt="SQLite" />
       </a>
