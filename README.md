@@ -22,7 +22,7 @@
       <a href="#Belphin-stack">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/121px-Python-logo-notext.svg.png" width="48" height="48" alt="Python" />
       </a>
-      <br>JavaScript
+      <br>Python
 		</td>
     <td align="center" width="96">
       <a href="#Belphin-stack" >
