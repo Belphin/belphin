@@ -148,6 +148,7 @@
       <a href="#Belphin-stack" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/220px-SQLite370.svg.png" alt="SQLite" />
       </a>
+      <br/>
       <br>SQLite
     </td>
   </tr>
