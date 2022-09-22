@@ -135,6 +135,7 @@
       <a href="#Belphin-stack" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Expressjs.png/220px-Expressjs.png" alt="Express JS" />
       </a>
+      <br/>
       <br>Express JS
     </td>
 		<td align="center" width="100">
@@ -147,6 +148,7 @@
       <a href="#Belphin-stack" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/220px-SQLite370.svg.png" alt="SQLite" />
       </a>
+      <br/>
       <br>SQLite
     </td>
   </tr>
