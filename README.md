@@ -80,6 +80,13 @@
       </a>
       <br>Redux
     </td>
+		</td>
+      <td align="center" width="100"> 
+      <a href="#Belphin-stack" >
+        <img src="https://redux-saga.js.org/img/Redux-Saga-Logo.png" width="48 alt="Redux-Saga" />
+      </a>
+      <br>Redux-Saga
+    </td>
      <td align="center" width="100">
       <a href="#Belphin-stack">
         <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="48" height="48" alt="Material UI" />
