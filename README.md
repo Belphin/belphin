@@ -61,6 +61,12 @@
       </a>
       <br>Prettier
 		</td>
+		<td align="center" width="100"> 
+      <a href="#Belphin-stack" >
+        <img src="https://brandeps.com/icon-download/J/Jest-icon-vector-02.svg" width="48" height="48" alt="Jest" />
+      </a>
+      <br>Jest
+    </td>
   </tr> 
 </table>
 
