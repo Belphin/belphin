@@ -131,6 +131,12 @@
       </a>
       <br>Webpack
     </td>
+    <td align="center" width="100"> 
+      <a href="#Belphin-stack" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Babel_Logo.svg/250px-Babel_Logo.svg.png" height="48" alt="Babel" />
+      </a>
+      <br>Babel
+    </td>
   </tr> 
 </table>
 
