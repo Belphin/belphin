@@ -26,7 +26,7 @@
 		</td>
     <td align="center" width="100">
       <a href="#Belphin-stack">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/130px-ISO_C%2B%2B_Logo.svg.png" width="48" height="48" alt="C++" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/130px-ISO_C%2B%2B_Logo.svg.png" width="44" height="48" alt="C++" />
       </a>
       <br>C++
 		</td>
