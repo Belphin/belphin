@@ -196,9 +196,9 @@
 	</td>
   <td align="center" width="100">
     <a href="#Belphin-stack">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Diagrams.net_Logo.svg/120px-Diagrams.net_Logo.svg.png" height="48" alt="Figma" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Diagrams.net_Logo.svg/120px-Diagrams.net_Logo.svg.png" height="48" alt="Draw.io" />
     </a>
-    <br>Figma
+    <br>Draw.io
 	</td>
 </table>
 
