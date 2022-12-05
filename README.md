@@ -20,6 +20,12 @@
 		</td>
     <td align="center" width="100">
       <a href="#Belphin-stack">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/64px-Typescript.svg.png" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+		</td>
+    <td align="center" width="100">
+      <a href="#Belphin-stack">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/121px-Python-logo-notext.svg.png" width="48" height="48" alt="Python" />
       </a>
       <br>Python
