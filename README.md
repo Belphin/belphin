@@ -25,18 +25,6 @@
       <br>JavaScript
 		</td>
     <td align="center" width="100">
-      <a href="#Belphin-stack">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/121px-Python-logo-notext.svg.png" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-		</td>
-    <td align="center" width="100">
-      <a href="#Belphin-stack">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/130px-ISO_C%2B%2B_Logo.svg.png" width="44" height="48" alt="C++" />
-      </a>
-      <br>C++
-		</td>
-    <td align="center" width="100">
       <a href="#Belphin-stack" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
       </a>
@@ -183,6 +171,35 @@
       <br>SQLite
     </td>
   </tr>
+</table>
+
+> Other
+
+<table width='100%'>
+  <td align="center" width="100">
+    <a href="#Belphin-stack">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/121px-Python-logo-notext.svg.png" width="48" height="48" alt="Python" />
+    </a>
+  	<br>Python
+	</td>
+  <td align="center" width="100">
+    <a href="#Belphin-stack">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/130px-ISO_C%2B%2B_Logo.svg.png" width="44" height="48" alt="C++" />
+    </a>
+    <br>C++
+	</td>
+  <td align="center" width="100">
+    <a href="#Belphin-stack">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/128px-Figma-logo.svg.png" height="48" alt="Figma" />
+    </a>
+    <br>Figma
+	</td>
+  <td align="center" width="100">
+    <a href="#Belphin-stack">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Diagrams.net_Logo.svg/120px-Diagrams.net_Logo.svg.png" height="48" alt="Figma" />
+    </a>
+    <br>Figma
+	</td>
 </table>
 
 ## :comet: Contact
