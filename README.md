@@ -36,6 +36,12 @@
       </a>
       <br>Npm
     </td>
+    <td align="center" width="100"> 
+      <a href="#Belphin-stack" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Yarn-logo-kitten.svg/120px-Yarn-logo-kitten.svg.png" alt="Yarn" />
+      </a>
+      <br>Yarn
+    </td>
      <td align="center" width="100"> 
       <a href="#Belphin-stack" >
         <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="48" height="48" alt="github" />
