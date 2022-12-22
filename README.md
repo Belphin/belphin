@@ -178,6 +178,14 @@
       <br>Less
     </td>
   </tr> 
+	<tr>
+		<td align="center" width="100">
+			<a href="#Belphin-stack">
+				<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/128px-Figma-logo.svg.png" height="48" alt="Figma" />
+			</a>
+			<br>Figma
+		</td>
+	</tr>
 </table>
 
 > Backend
@@ -218,6 +226,14 @@
       <br>PostgreSQL
 		</td>
   </tr>
+	<tr>
+		<td align="center" width="100">
+    	<a href="#Belphin-stack">
+      	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Diagrams.net_Logo.svg/120px-Diagrams.net_Logo.svg.png" height="48" alt="Draw.io" />
+    	</a>
+    	<br>Draw.io
+		</td>
+	</tr>
 </table>
 
 > Other
@@ -253,20 +269,6 @@
 	<td align="center" width="100"> 
     <br>MFC
   </td>
-</tr>
-<tr>
-  <td align="center" width="100">
-    <a href="#Belphin-stack">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/128px-Figma-logo.svg.png" height="48" alt="Figma" />
-    </a>
-    <br>Figma
-	</td>
-  <td align="center" width="100">
-    <a href="#Belphin-stack">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Diagrams.net_Logo.svg/120px-Diagrams.net_Logo.svg.png" height="48" alt="Draw.io" />
-    </a>
-    <br>Draw.io
-	</td>
 </tr>
 </table>
 
