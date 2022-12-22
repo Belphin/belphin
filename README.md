@@ -183,7 +183,7 @@
     </td>
 		<td>
       <a href="#Belphin-stack" >
-        <img src="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/180px-Postgresql_elephant.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/240px-Postgresql_elephant.svg.png 2x" alt="PostgreSQL" />
+        <img src="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/180px-Postgresql_elephant.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/240px-Postgresql_elephant.svg.png 2x" width="48" height="48" alt="PostgreSQL" />
       </a>
       <br/>
       <br>PostgreSQL
