@@ -171,6 +171,12 @@
       </a>
       <br>Sass
     </td>
+    <td align="center" width="100">
+      <a href="#Belphin-stack">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LESS_Logo.svg/1920px-LESS_Logo.svg.png" alt="Less" />
+      </a>
+      <br>Less
+    </td>
   </tr> 
 </table>
 
@@ -191,6 +197,14 @@
       <br/>
       <br>Express JS
     </td>
+		<td align="center" width="100"> 
+      <br>JSON Web Token
+    </td>
+		<td align="center" width="100"> 
+      <br>Express-Validator
+    </td>
+	</tr>
+	<tr>
 		<td align="center" width="100">
       <a href="#Belphin-stack" >
         <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="Mongo DB" />
@@ -203,13 +217,6 @@
       </a>
       <br>PostgreSQL
 		</td>
-		<td align="center" width="100">
-      <a href="#Belphin-stack" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/220px-SQLite370.svg.png" alt="SQLite" />
-      </a>
-      <br/>
-      <br>SQLite
-    </td>
   </tr>
 </table>
 
@@ -222,6 +229,13 @@
     </a>
   	<br>Python
 	</td>
+	<td align="center" width="100">
+    <a href="#Belphin-stack" >
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/220px-SQLite370.svg.png" alt="SQLite" />
+    </a>
+    <br/>
+    <br>SQLite
+  </td>
   <td align="center" width="100">
     <a href="#Belphin-stack">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/130px-ISO_C%2B%2B_Logo.svg.png" width="44" height="48" alt="C++" />
