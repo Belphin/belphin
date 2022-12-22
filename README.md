@@ -181,11 +181,10 @@
       </a>
       <br>MongoDB
     </td>
-		<td>
+		<td align="center" width="100">
       <a href="#Belphin-stack" >
-        <img src="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/180px-Postgresql_elephant.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/240px-Postgresql_elephant.svg.png 2x" width="48" height="48" alt="PostgreSQL" />
+        <img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="48" height="48" alt="PostgreSQL" />
       </a>
-      <br/>
       <br>PostgreSQL
 		</td>
 		<td align="center" width="100">
