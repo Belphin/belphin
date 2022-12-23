@@ -89,6 +89,9 @@
 		<td align="center" width="100"> 
       <br>React Router DOM
     </td>
+		<td align="center" width="100"> 
+      <br>React Hook Form
+    </td>
 	</tr>
 	<tr>
     <td align="center" width="100"> 
@@ -117,8 +120,6 @@
       </a>
       <br>MobX
 		</td>
-	</tr>
-	<tr>
 		<td align="center" width="100"> 
       <a href="#Belphin-stack" >
         <img src="https://brandeps.com/icon-download/W/Webpack-icon-vector-02.svg" width="48" height="48" alt="Webpack" />
@@ -131,15 +132,13 @@
       </a>
       <br>Babel
     </td>
-	</tr>
-	<tr>
     <td align="center" width="100">
       <a href="#Belphin-stack">
         <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="48" height="48" alt="Material UI" />
       </a>
       <br>MUI
     </td>
-   <td align="center" width="100">
+    <td align="center" width="100">
       <a href="#Belphin-stack">
         <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
       </a>
@@ -177,8 +176,6 @@
       </a>
       <br>Less
     </td>
-  </tr> 
-	<tr>
 		<td align="center" width="100">
 			<a href="#Belphin-stack">
 				<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/128px-Figma-logo.svg.png" height="48" alt="Figma" />
@@ -205,14 +202,6 @@
       <br/>
       <br>Express JS
     </td>
-		<td align="center" width="100"> 
-      <br>JSON Web Token
-    </td>
-		<td align="center" width="100"> 
-      <br>Express-Validator
-    </td>
-	</tr>
-	<tr>
 		<td align="center" width="100">
       <a href="#Belphin-stack" >
         <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="Mongo DB" />
@@ -225,8 +214,6 @@
       </a>
       <br>PostgreSQL
 		</td>
-  </tr>
-	<tr>
 		<td align="center" width="100">
     	<a href="#Belphin-stack">
       	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Diagrams.net_Logo.svg/120px-Diagrams.net_Logo.svg.png" height="48" alt="Draw.io" />
@@ -234,42 +221,6 @@
     	<br>Draw.io
 		</td>
 	</tr>
-</table>
-
-> Other
-
-<table width='100%'>
-<tr>
-  <td align="center" width="100">
-    <a href="#Belphin-stack">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/121px-Python-logo-notext.svg.png" width="48" height="48" alt="Python" />
-    </a>
-  	<br>Python
-	</td>
-	<td align="center" width="100"> 
-    <br>telebot
-  </td>
-	<td align="center" width="100">
-    <a href="#Belphin-stack" >
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/220px-SQLite370.svg.png" alt="SQLite" />
-    </a>
-    <br>SQLite
-  </td>
-	<td align="center" width="100"> 
-    <br>Beautiful Soup
-  </td>
-</tr>
-<tr>
-  <td align="center" width="100">
-    <a href="#Belphin-stack">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/130px-ISO_C%2B%2B_Logo.svg.png" width="44" height="48" alt="C++" />
-    </a>
-    <br>C++
-	</td>
-	<td align="center" width="100"> 
-    <br>MFC
-  </td>
-</tr>
 </table>
 
 ## :comet: Contact
