@@ -86,34 +86,12 @@
       </a>
       <br>React JS
 		</td>
-		<td align="center" width="100"> 
-      <br>React Router DOM
-    </td>
-		<td align="center" width="100"> 
-      <br>React Hook Form
-    </td>
-	</tr>
-	<tr>
     <td align="center" width="100"> 
       <a href="#Belphin-stack" >
         <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="48" height="48" alt="Redux" />
       </a>
       <br>Redux
 		</td>
-    <td align="center" width="100"> 
-      <br>Redux-Saga
-    </td>
-    <td align="center" width="100"> 
-      <br>Redux-thunk
-    </td>
-    <td align="center" width="100"> 
-      <br>RTK Query
-    </td>
-    <td align="center" width="100"> 
-      <br>Redux Toolkit
-    </td>
-	</tr>
-	<tr>
 		<td align="center" width="100">
       <a href="#Belphin-stack">
         <img src="https://mobx.js.org/assets/mobx.png" width="48" height="48" alt="MobX" />
