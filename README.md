@@ -150,12 +150,6 @@
       </a>
       <br>Sass
     </td>
-    <td align="center" width="100">
-      <a href="#Belphin-stack">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LESS_Logo.svg/1920px-LESS_Logo.svg.png" alt="Less" />
-      </a>
-      <br>Less
-    </td>
 		<td align="center" width="100">
 			<a href="#Belphin-stack">
 				<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/128px-Figma-logo.svg.png" height="48" alt="Figma" />
